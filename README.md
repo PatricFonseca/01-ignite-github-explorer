@@ -19,3 +19,4 @@ yarn build
 - Estado
 - Propriedades
 - Imutabilidade
+- Typescript
